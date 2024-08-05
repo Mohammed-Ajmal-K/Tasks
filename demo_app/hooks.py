@@ -227,3 +227,33 @@ app_license = "mit"
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
 
+# fixtures = [
+#    {
+#     "dt": "Web Page",
+#     "filters": [
+#         ["name", "in", 
+#         [
+#             'Home',
+#             'Manufacturing',
+#             'HealthCare',
+#             'Frappe HR',
+#             'About Anther',
+#             'Contact Us'
+#          ]]
+#     ]
+# }
+# ]
+
+fixtures = [
+   {
+    "dt": "Web Page",
+    "filters": [
+        ["name", "in", 
+        [
+            
+            'Frappe HR',
+            
+         ]]
+    ]
+}
+]
