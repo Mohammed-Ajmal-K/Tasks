@@ -1,6 +1,6 @@
 app_name = "demo_app"
 app_title = "Demo App"
-app_publisher = "Ajmal"
+app_publisher = "ajmal"
 app_description = "a demo app"
 app_email = "aju@gmail.com"
 app_license = "mit"
